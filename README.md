@@ -1,6 +1,3 @@
 # Lung Abnormality Detection
-## Purpose
-Detect the presence of fourteen lung abnormalities from a chest X-ray image.
-
-## Technologies
-This project uses the models U-Net and ResNet-18 which have been implemented using PyTorch.
+## Abstract
+In medical image analysis, machine learning models can help healthcare professionals with the diagnosing and monitoring of lung abnormalities, which are prevalent and diverse in nature. This paper presents a comprehensive approach to lung abnormality detection using deep learning techniques. The proposed methodology leverages the power of convolutional neural networks (CNNs) to accurately and efficiently identify the presence of various lung abnormalities from chest radiographs. The research focuses on a dataset comprising a diverse range of lung abnormalities. Deep learning architectures have been used to process 1,740 chest radiographs. The model yielded an accuracy of 93.10% after various preprocessing steps to ensure quality, even with a relatively small sample size. The results demonstrate that deep learning can effectively identify individuals with lung disease, streamlining the process of diagnosis even in the absence of direct medical supervision. This procedure holds the potential to enhance personalized prevention and treatment approaches, thereby contributing to life-saving measures.
